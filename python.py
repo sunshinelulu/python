@@ -100,7 +100,7 @@ a = set("ABCDE")
 print 'A' in a
 L = [1,3,2,1,3,2]
 print list(set(L))
-print ord('a') #显示数值的大小 97
+print ord('a')    #显示数值的大小 97
 
 #单，双引号的区别
 print 'we are\' family!', "we are\" family!", "we are\' family!","we are\' family!"
@@ -122,7 +122,6 @@ print s.replace('a', 'bb')
 print '%(n)d is a %(m)s' %{"n":3, "m":"she is a dog!"}
 print type({1,2,3})
 
-#列表与字典的相关操作
 
 """ #*号在迭代器中的神奇的作用,这个估计是3.0的python所支持的语法
 def sum(items):
