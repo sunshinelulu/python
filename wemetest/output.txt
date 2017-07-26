@@ -1,0 +1,5668 @@
+the total Transactions numbers:  1001
+
+the request is processed successfully! user token is 13213267385
+
+
+the request is processed successfully! user token is 13213267386
+
+
+the request is processed successfully! user token is 13213267387
+
+
+the request is processed successfully! user token is 13213267388
+
+
+the request is processed successfully! user token is 13213267389
+
+
+the request is processed successfully! user token is 13213267390
+
+
+the request is processed successfully! user token is 13213267391
+
+
+the request is processed successfully! user token is 13213267392
+
+
+the request is processed successfully! user token is 13213267393
+
+
+the request is processed successfully! user token is 13213267394
+
+
+the request is processed successfully! user token is 13213267395
+
+
+the request is processed successfully! user token is 13213267397
+
+
+the request is processed successfully! user token is 13213267396
+
+
+the request is processed successfully! user token is 13213267398
+
+
+the request is processed successfully! user token is 13213267399
+
+
+the request is processed successfully! user token is 13213267401
+
+
+the request is processed successfully! user token is 13213267400
+
+
+the request is processed successfully! user token is 13213267405
+
+
+the request is processed successfully! user token is 13213267403
+
+
+the request is processed successfully! user token is 13213267402
+
+
+the request is processed successfully! user token is 13213267404
+
+
+the request is processed successfully! user token is 13213267406
+
+
+the request is processed successfully! user token is 13213267407
+
+
+the request is processed successfully! user token is 13213267408
+
+the request is processed successfully! user token is 13213267409
+
+
+
+the request is processed successfully! user token is 13213267410
+
+
+the request is processed successfully! user token is 13213267413
+
+the request is processed successfully! user token is 13213267411
+
+
+
+the request is processed successfully! user token is 13213267412
+
+
+the request is processed successfully! user token is 13213267414
+
+
+the request is processed successfully! user token is 13213267415
+
+
+the request is processed successfully! user token is 13213267416
+
+
+the request is processed successfully! user token is 13213267417
+
+
+the request is processed successfully! user token is 13213267418
+
+
+the request is processed successfully! user token is 13213267419
+
+
+the request is processed successfully! user token is 13213267420
+
+
+the request is processed successfully! user token is 13213267421
+
+
+the request is processed successfully! user token is 13213267422
+
+
+the request is processed successfully! user token is 13213267423
+
+
+the request is processed successfully! user token is 13213267424
+
+
+the request is processed successfully! user token is 13213267425
+
+
+the request is processed successfully! user token is 13213267426
+
+
+the request is processed successfully! user token is 13213267428
+
+
+the request is processed successfully! user token is 13213267427
+
+
+the request is processed successfully! user token is 13213267429
+
+
+the request is processed successfully! user token is 13213267431
+
+
+the request is processed successfully! user token is 13213267430
+
+
+the request is processed successfully! user token is 13213267432
+
+
+the request is processed successfully! user token is 13213267434
+
+
+the request is processed successfully! user token is 13213267433
+
+
+the request is processed successfully! user token is 13213267435
+
+
+the request is processed successfully! user token is 13213267436
+
+
+the request is processed successfully! user token is 13213267438
+
+
+the request is processed successfully! user token is 13213267437
+
+
+the request is processed successfully! user token is 13213267439
+
+
+the request is processed successfully! user token is 13213267440
+
+
+this request spending time :  0.205999851227 
+
+
+this request spending time :  0.252999782562 
+
+
+this request spending time :  0.252999782562 
+
+
+this request spending time :  0.268999814987 
+
+
+this request spending time :  0.301999807358 
+
+
+this request spending time :  0.316999912262 
+
+
+this request spending time :  0.348999977112 
+
+
+this request spending time :  0.363999843597 
+
+
+this request spending time :  0.394999980927 
+
+
+this request spending time :  0.410999774933 
+
+
+this request spending time :  0.426999807358 
+
+
+this request spending time :  0.427000045776 
+
+
+this request spending time :  0.535999774933 
+
+
+this request spending time :  0.536000013351 
+
+
+this request spending time :  0.582999944687 
+
+
+this request spending time :  0.65499997139 
+
+
+this request spending time :  0.686000108719 
+
+
+this request spending time :  0.700999975204 
+
+
+this request spending time :  0.717000007629 
+
+
+this request spending time :  0.717000007629 
+
+
+this request spending time :  0.733000040054 
+
+
+this request spending time :  0.733000040054 
+
+
+this request spending time :  0.74799990654 
+
+
+this request spending time :  0.763999938965 
+
+
+this request spending time :  0.763999938965 
+
+
+this request spending time :  0.763999938965 
+
+
+this request spending time :  0.783999919891 
+
+
+this request spending time :  0.799999952316 
+
+
+the request is processed successfully! user token is 13213267441
+
+
+this request spending time :  
+the request is processed successfully! user token is 13213267442
+0.799999952316
+ 
+
+
+this request spending time :  0.799999952316 
+
+
+this request spending time :  0.81500005722
+the request is processed successfully! user token is 13213267443
+ 
+
+
+
+this request spending time :  0.845999956131 
+
+
+this request spending time :  0.845999956131 
+
+
+this request spending time :  0.861999988556 
+
+the request is processed successfully! user token is 13213267444
+
+
+
+this request spending time :  0.892999887466 
+
+
+this request spending time :  0.908999919891 
+
+
+the request is processed successfully! user token is 13213267445
+
+this request spending time : 
+ 0.908999919891 
+
+
+this request spending time :  0.94000005722 
+
+
+this request spending time :  0.956000089645
+the request is processed successfully! user token is 13213267446
+ 
+
+
+
+this request spending time :  0.970999956131 
+
+
+this request spending time :  0.986999988556 
+the request is processed successfully! user token is 13213267447
+
+
+
+
+this request spending time :  0.986999988556 
+
+
+this request spending time :  1.01799988747 
+
+
+this request spending time :  
+the request is processed successfully! user token is 13213267448
+1.03399991989
+ 
+
+
+this request spending time :  1.05000019073 
+
+
+this request spending time :  1.06500005722
+the request is processed successfully! user token is 13213267449
+ 
+
+
+
+this request spending time :  1.08100008965 
+
+
+this request spending time :  1.08100008965
+the request is processed successfully! user token is 13213267450
+ 
+
+
+
+this request spending time :  1.08100008965 
+
+
+this request spending time :  1.08100008965 
+
+
+this request spending time :  1.10100007057 
+
+the request is processed successfully! user token is 13213267452
+
+
+
+this request spending time :  1.10300016403 
+
+
+this request spending time :  1.10600018501 
+the request is processed successfully! user token is 13213267451
+
+
+
+
+the request is processed successfully! user token is 13213267453
+
+
+this request spending time :  1.10800004005 
+
+
+this request spending time :  1.10800004005 
+
+
+this request spending time :  1.10800004005 
+
+
+the request is processed successfully! user token is 13213267454
+
+
+this request spending time :  1.28400015831 
+
+
+this request spending time :  1.28400015831
+the request is processed successfully! user token is 13213267455
+ 
+
+
+
+this request spending time :  1.31500005722 
+
+
+this request spending time : 
+the request is processed successfully! user token is 13213267456
+ 
+1.33100008965 
+
+
+this request spending time :  1.36200022697 
+
+
+this request spending time :  1.37800002098 
+
+
+this request spending time :  1.39499998093 
+
+the request is processed successfully! user token is 13213267457
+
+
+
+this request spending time :  1.41200017929 
+
+
+the request is processed successfully! user token is 13213267458
+
+
+this request spending time :  1.4430000782 
+
+
+this request spending time :  1.45800018311 
+
+
+the request is processed successfully! user token is 13213267459
+
+
+this request spending time :  1.47399997711 
+
+
+this request spending time :  1.50500011444 
+the request is processed successfully! user token is 13213267460
+
+
+
+
+this request spending time :  1.50500011444 
+
+
+this request spending time :  1.53600001335 
+
+
+this request spending time :  
+the request is processed successfully! user token is 13213267461
+1.55200004578
+ 
+
+
+this request spending time :  1.5680000782 
+
+
+this request spending time :  1.59100008011 
+
+the request is processed successfully! user token is 13213267462
+
+
+
+this request spending time :  1.59100008011 
+
+the request is processed successfully! user token is 13213267463
+
+
+
+this request spending time :  1.62199997902 
+
+
+this request spending time :  1.63800001144 
+
+the request is processed successfully! user token is 13213267465
+
+
+
+this request spending time :  1.65400004387 
+
+
+this request spending time :  1.6850001812 
+
+
+this request spending time :  
+the request is processed successfully! user token is 13213267464
+1.6850001812
+ 
+
+
+this request spending time :  1.71600008011 
+
+
+this request spending time :  1.73500013351 
+
+
+the request is processed successfully! user token is 13213267466
+
+
+this request spending time :  1.76600003242 
+
+
+the request is processed successfully! user token is 13213267467
+
+
+this request spending time :  1.78100013733 
+
+
+the request is processed successfully! user token is 13213267469
+
+
+this request spending time :  1.82800006866 
+
+
+the request is processed successfully! user token is 13213267470
+
+
+this request spending time :  1.85899996758 
+
+
+the request is processed successfully! user token is 13213267468
+
+
+this request spending time :  1.875 
+
+
+the request is processed successfully! user token is 13213267471
+
+
+this request spending time :  1.85899996758 
+
+
+the request is processed successfully! user token is 13213267473
+
+
+this request spending time :  1.90600013733 
+
+
+the request is processed successfully! user token is 13213267472
+
+
+this request spending time :  2.0150001049 
+
+
+the request is processed successfully! user token is 13213267474
+
+
+this request spending time :  2.0759999752 
+
+
+the request is processed successfully! user token is 13213267475
+
+
+this request spending time :  2.13800001144 
+
+
+the request is processed successfully! user token is 13213267476
+
+
+this request spending time :  2.21900010109 
+
+
+the request is processed successfully! user token is 13213267477
+
+
+this request spending time :  2.26800012589 
+
+
+the request is processed successfully! user token is 13213267494
+
+
+this request spending time :  2.33099985123 
+
+
+the request is processed successfully! user token is 13213267478
+
+
+this request spending time :  2.41000008583 
+
+
+the request is processed successfully! user token is 13213267493
+
+
+this request spending time :  2.45799994469 
+
+
+the request is processed successfully! user token is 13213267479
+
+
+this request spending time :  2.53500008583 
+
+
+the request is processed successfully! user token is 13213267495
+
+
+this request spending time :  2.59200000763 
+
+
+the request is processed successfully! user token is 13213267480
+
+
+this request spending time :  2.66900014877 
+
+
+the request is processed successfully! user token is 13213267496
+
+
+this request spending time :  2.71899986267 
+
+
+the request is processed successfully! user token is 13213267498
+
+
+this request spending time :  2.79699993134 
+
+
+the request is processed successfully! user token is 13213267497
+
+
+this request spending time :  2.8599998951 
+
+
+the request is processed successfully! user token is 13213267481
+
+
+this request spending time :  2.93700003624 
+
+
+the request is processed successfully! user token is 13213267482
+
+
+this request spending time :  3.04600000381 
+
+
+the request is processed successfully! user token is 13213267484
+
+
+this request spending time :  3.10700011253 
+
+
+the request is processed successfully! user token is 13213267483
+
+
+this request spending time :  3.18499994278 
+
+
+the request is processed successfully! user token is 13213267485
+
+
+this request spending time :  3.25100016594 
+
+
+the request is processed successfully! user token is 13213267486
+
+
+this request spending time :  3.31299996376 
+
+
+the request is processed successfully! user token is 13213267368
+
+
+this request spending time :  3.42299985886 
+
+
+the request is processed successfully! user token is 13213267487
+
+
+this request spending time :  3.37599992752 
+
+
+the request is processed successfully! user token is 13213267500
+
+
+this request spending time :  3.43799996376 
+
+
+the request is processed successfully! user token is 13213267488
+
+
+this request spending time :  3.51600003242 
+
+
+the request is processed successfully! user token is 13213267489
+
+
+this request spending time :  3.5759999752 
+
+
+the request is processed successfully! user token is 13213267490
+
+
+this request spending time :  3.63899993896 
+
+
+the request is processed successfully! user token is 13213267501
+
+
+this request spending time :  3.70299983025 
+
+
+the request is processed successfully! user token is 13213267491
+
+
+this request spending time :  3.76499986649 
+
+
+the request is processed successfully! user token is 13213267492
+
+
+this request spending time :  3.82799983025 
+
+
+the request is processed successfully! user token is 13213267502
+
+
+this request spending time :  3.90599989891 
+
+
+the request is processed successfully! user token is 13213267510
+
+
+this request spending time :  3.95199990273 
+
+
+the request is processed successfully! user token is 13213267512
+
+
+this request spending time :  4.05999994278 
+
+
+the request is processed successfully! user token is 13213267513
+
+
+this request spending time :  4.12199997902 
+
+
+the request is processed successfully! user token is 13213267514
+
+
+this request spending time :  4.18899989128 
+
+
+the request is processed successfully! user token is 13213267516
+
+
+this request spending time :  4.23600006104 
+
+
+the request is processed successfully! user token is 13213267515
+
+
+this request spending time :  4.31299996376 
+
+
+the request is processed successfully! user token is 13213267517
+
+
+this request spending time :  4.37800002098 
+
+
+the request is processed successfully! user token is 13213267518
+
+
+this request spending time :  4.44099998474 
+
+
+the request is processed successfully! user token is 13213267519
+
+
+this request spending time :  4.50300002098 
+
+
+the request is processed successfully! user token is 13213267520
+
+
+this request spending time :  4.57700014114 
+
+
+the request is processed successfully! user token is 13213267524
+
+
+this request spending time :  4.63899993896 
+
+
+the request is processed successfully! user token is 13213267523
+
+
+this request spending time :  4.70399999619 
+
+
+the request is processed successfully! user token is 13213267521
+
+
+this request spending time :  4.76699995995 
+
+
+the request is processed successfully! user token is 13213267522
+
+
+this request spending time :  4.82899999619 
+
+
+the request is processed successfully! user token is 13213267525
+
+
+this request spending time :  4.90700006485 
+
+
+the request is processed successfully! user token is 13213267546
+
+
+this request spending time :  4.92599987984 
+
+
+the request is processed successfully! user token is 13213267570
+
+
+this request spending time :  5.00899982452 
+
+
+the request is processed successfully! user token is 13213267588
+
+
+this request spending time :  5.0720000267 
+
+
+the request is processed successfully! user token is 13213267599
+
+
+this request spending time :  5.12299990654 
+
+
+the request is processed successfully! user token is 13213267608
+
+
+this request spending time :  5.16999983788 
+
+
+the request is processed successfully! user token is 13213267609
+
+
+this request spending time :  5.23199987411 
+
+
+the request is processed successfully! user token is 13213267612
+
+
+this request spending time :  5.27900004387 
+
+
+the request is processed successfully! user token is 13213267636
+
+
+this request spending time :  5.32500004768 
+
+
+the request is processed successfully! user token is 13213267661
+
+
+this request spending time :  5.35199999809 
+
+
+the request is processed successfully! user token is 13213267668
+
+
+this request spending time :  5.39800000191 
+
+
+the request is processed successfully! user token is 13213267683
+
+
+this request spending time :  5.44699978828 
+
+
+the request is processed successfully! user token is 13213267699
+
+
+this request spending time :  5.47900009155 
+
+
+the request is processed successfully! user token is 13213267706
+
+
+this request spending time :  5.54099988937 
+
+
+the request is processed successfully! user token is 13213267725
+
+
+this request spending time :  5.57300019264 
+
+
+the request is processed successfully! user token is 13213267737
+
+
+this request spending time :  5.61899995804 
+
+
+the request is processed successfully! user token is 13213267749
+
+
+this request spending time :  5.66599988937 
+
+
+the request is processed successfully! user token is 13213267746
+
+
+this request spending time :  5.77399992943 
+
+
+the request is processed successfully! user token is 13213267751
+
+
+this request spending time :  5.84399986267 
+
+
+the request is processed successfully! user token is 13213267755
+
+
+this request spending time :  5.875 
+
+
+the request is processed successfully! user token is 13213267756
+
+
+this request spending time :  5.95300006866 
+
+
+the request is processed successfully! user token is 13213267757
+
+
+this request spending time :  5.98699998856 
+
+
+the request is processed successfully! user token is 13213267762
+
+
+this request spending time :  6.0490000248 
+
+
+the request is processed successfully! user token is 13213267763
+
+
+this request spending time :  6.11800003052 
+
+
+the request is processed successfully! user token is 13213267764
+
+
+this request spending time :  6.18099999428 
+
+
+the request is processed successfully! user token is 13213267773
+
+
+this request spending time :  6.23000001907 
+
+
+the request is processed successfully! user token is 13213267780
+
+
+this request spending time :  6.27700018883 
+
+
+the request is processed successfully! user token is 13213267787
+
+
+this request spending time :  6.32299995422 
+
+
+the request is processed successfully! user token is 13213267797
+
+
+this request spending time :  6.36100006104 
+
+
+the request is processed successfully! user token is 13213267806
+
+
+this request spending time :  6.39299988747 
+
+
+the request is processed successfully! user token is 13213267814
+
+
+this request spending time :  6.45199990273 
+
+
+the request is processed successfully! user token is 13213267821
+
+
+this request spending time :  6.5 
+
+
+the request is processed successfully! user token is 13213267832
+
+
+this request spending time :  6.60199999809 
+
+
+the request is processed successfully! user token is 13213267843
+
+
+this request spending time :  6.63400006294 
+
+
+the request is processed successfully! user token is 13213267852
+
+
+this request spending time :  6.68200016022 
+
+
+the request is processed successfully! user token is 13213267861
+
+
+this request spending time :  6.74000000954 
+
+
+the request is processed successfully! user token is 13213267866
+
+
+this request spending time :  6.80200004578 
+
+
+the request is processed successfully! user token is 13213267877
+
+
+this request spending time :  6.84899997711 
+
+
+the request is processed successfully! user token is 13213267878
+
+
+this request spending time :  6.91199994087 
+
+
+the request is processed successfully! user token is 13213267899
+
+
+this request spending time :  6.94999980927 
+
+
+the request is processed successfully! user token is 13213267907
+
+
+this request spending time :  6.99699997902 
+
+
+the request is processed successfully! user token is 13213267910
+
+
+this request spending time :  7.05999994278 
+
+
+the request is processed successfully! user token is 13213267928
+
+
+this request spending time :  7.09200000763 
+
+
+the request is processed successfully! user token is 13213267938
+
+
+this request spending time :  7.13899993896 
+
+
+the request is processed successfully! user token is 13213267948
+
+
+this request spending time :  7.18299984932 
+
+
+the request is processed successfully! user token is 13213267956
+
+
+this request spending time :  7.24499988556 
+
+
+the request is processed successfully! user token is 13213267963
+
+
+this request spending time :  7.34100008011 
+
+
+the request is processed successfully! user token is 13213267977
+
+
+this request spending time :  7.38700008392 
+
+
+the request is processed successfully! user token is 13213267978
+
+
+this request spending time :  7.46499991417 
+
+
+the request is processed successfully! user token is 13213267988
+
+
+this request spending time :  7.49900007248 
+
+
+the request is processed successfully! user token is 13213268007
+
+the request is processed successfully! user token is 13213268000
+
+
+the request is processed successfully! user token is 13213268017
+
+
+
+this request spending time :  7.80999994278 
+
+
+this request spending time :  7.71099996567 
+
+
+this request spending time :  7.79500007629 
+
+
+the request is processed successfully! user token is 13213268019
+
+
+the request is processed successfully! user token is 13213268023
+
+the request is processed successfully! user token is 13213268029
+
+
+
+the request is processed successfully! user token is 13213268048
+
+
+the request is processed successfully! user token is 13213268037
+
+
+this request spending time :  8.03600001335 
+
+
+this request spending time :  7.9960000515 
+
+
+this request spending time :  7.98399996758 
+
+
+this request spending time :  7.97200012207 
+
+
+this request spending time :  7.98699998856 
+
+
+the request is processed successfully! user token is 13213268052
+
+
+this request spending time :  7.95600008965 
+
+
+the request is processed successfully! user token is 13213268066
+
+
+this request spending time :  8.0490000248 
+
+
+the request is processed successfully! user token is 13213268077
+
+
+this request spending time :  8.07600021362 
+
+
+the request is processed successfully! user token is 13213268088
+
+
+this request spending time :  8.17000007629 
+
+
+the request is processed successfully! user token is 13213268098
+
+
+this request spending time :  8.19600009918 
+
+
+the request is processed successfully! user token is 13213268100
+
+
+this request spending time :  8.25800013542 
+
+
+the request is processed successfully! user token is 13213268109
+
+
+this request spending time :  8.32099986076 
+
+
+the request is processed successfully! user token is 13213268121
+
+
+this request spending time :  8.39899992943 
+
+
+the request is processed successfully! user token is 13213268132
+
+
+this request spending time :  8.39899992943 
+
+
+the request is processed successfully! user token is 13213267709
+
+
+this request spending time :  9.49399995804 
+
+
+the request is processed successfully! user token is 13213268148
+
+
+this request spending time :  8.54399991035 
+
+
+the request is processed successfully! user token is 13213268156
+
+
+this request spending time :  8.5600001812 
+
+
+the request is processed successfully! user token is 13213268161
+
+
+this request spending time :  8.62299990654 
+
+
+the request is processed successfully! user token is 13213268168
+
+
+this request spending time :  8.69599986076 
+
+
+the request is processed successfully! user token is 13213268179
+
+
+this request spending time :  8.71099996567 
+
+
+the request is processed successfully! user token is 13213268187
+
+
+this request spending time :  8.757999897 
+
+
+the request is processed successfully! user token is 13213268191
+
+
+this request spending time :  8.82400012016 
+
+
+the request is processed successfully! user token is 13213268204
+
+
+this request spending time :  8.8710000515 
+
+
+the request is processed successfully! user token is 13213268214
+
+
+this request spending time :  8.99799990654 
+
+
+the request is processed successfully! user token is 13213268220
+
+
+this request spending time :  9.01300001144 
+
+
+the request is processed successfully! user token is 13213268229
+
+
+this request spending time :  9.07100009918 
+
+
+the request is processed successfully! user token is 13213268232
+
+
+the request is processed successfully! user token is 13213268245
+
+
+this request spending time :  9.19799995422 
+
+
+this request spending time :  9.1819999218 
+
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4900A8>)
+
+the request is processed successfully! user token is 13213268272
+
+
+this request spending time :  9.20600008965 
+
+
+the request is processed successfully! user token is 13213268300
+
+
+this request spending time :  9.26900005341 
+
+
+the request is processed successfully! user token is 13213268320
+
+
+this request spending time :  9.21900010109 
+
+
+the request is processed successfully! user token is 13213268355
+
+
+this request spending time :  9.21799993515 
+
+
+the request is processed successfully! user token is 13213267965
+
+
+this request spending time :  10.1990001202 
+
+
+the request is processed successfully! user token is 13213267998
+
+
+this request spending time :  10.1510000229 
+
+
+the request is processed successfully! user token is 13213268024
+
+
+this request spending time :  10.1449999809 
+
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F540648>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F533C38>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F521328>)
+
+the request is processed successfully! user token is 13213268049
+
+
+this request spending time :  10.2239999771 
+
+
+the request is processed successfully! user token is 13213268097
+
+
+this request spending time :  10.1410000324 
+
+
+the request is processed successfully! user token is 13213268134
+
+
+this request spending time :  10.1419999599 
+
+
+the request is processed successfully! user token is 13213268162
+
+
+this request spending time :  10.1730000973 
+
+
+the request is processed successfully! user token is 13213268180
+
+
+this request spending time :  10.2269999981 
+
+
+the request is processed successfully! user token is 13213268205
+
+
+the request is processed successfully! user token is 13213268192
+
+
+the request is processed successfully! user token is 13213268233
+
+
+this request spending time :  10.3860001564 
+
+
+this request spending time :  10.4019999504 
+
+
+this request spending time :  10.3080000877 
+
+
+the request is processed successfully! user token is 13213268301
+
+
+this request spending time :  10.253000021 
+
+
+the request is processed successfully! user token is 13213268321
+
+
+this request spending time :  10.2339999676 
+
+
+the request is processed successfully! user token is 13213267371
+
+
+this request spending time :  12.0619997978 
+
+
+the request is processed successfully! user token is 13213267367
+
+
+the request is processed successfully! user token is 13213267505
+
+
+this request spending time :  12.1699998379 
+
+
+this request spending time :  12.0449998379 
+
+
+the request is processed successfully! user token is 13213267503
+
+
+this request spending time :  12.1229999065 
+
+
+the request is processed successfully! user token is 13213267553
+
+
+this request spending time :  12.125 
+
+
+the request is processed successfully! user token is 13213267610
+
+
+this request spending time :  12.0940001011 
+
+
+the request is processed successfully! user token is 13213267638
+
+
+this request spending time :  12.1560001373 
+
+
+the request is processed successfully! user token is 13213267707
+
+
+this request spending time :  12.1259999275 
+
+
+the request is processed successfully! user token is 13213267754
+
+
+this request spending time :  12.0799999237 
+
+
+the request is processed successfully! user token is 13213267759
+
+
+this request spending time :  12.117000103 
+
+
+the request is processed successfully! user token is 13213267766
+
+
+this request spending time :  12.1960000992 
+
+
+the request is processed successfully! user token is 13213267765
+
+
+this request spending time :  12.2760000229 
+
+
+the request is processed successfully! user token is 13213267807
+
+
+this request spending time :  12.2200000286 
+
+
+the request is processed successfully! user token is 13213267823
+
+
+this request spending time :  12.236000061 
+
+
+the request is processed successfully! user token is 13213267867
+
+
+this request spending time :  12.2150001526 
+
+
+the request is processed successfully! user token is 13213267880
+
+
+this request spending time :  12.2769999504 
+
+
+the request is processed successfully! user token is 13213267912
+
+
+this request spending time :  12.2760000229 
+
+
+the request is processed successfully! user token is 13213267370
+
+
+this request spending time :  13.2319998741 
+
+
+the request is processed successfully! user token is 13213267976
+
+
+this request spending time :  12.243999958 
+
+
+the request is processed successfully! user token is 13213268041
+
+
+this request spending time :  12.1599998474 
+
+
+the request is processed successfully! user token is 13213268050
+
+
+this request spending time :  12.2080001831 
+
+
+the request is processed successfully! user token is 13213268099
+
+
+this request spending time :  12.1730000973 
+
+
+the request is processed successfully! user token is 13213268188
+
+
+this request spending time :  12.0450000763 
+
+
+the request is processed successfully! user token is 13213268273
+
+
+this request spending time :  11.9509999752 
+
+
+the request is processed successfully! user token is 13213267781
+
+
+this request spending time :  13.0870001316 
+
+
+the request is processed successfully! user token is 13213267771
+
+
+this request spending time :  13.1959998608 
+
+
+the request is processed successfully! user token is 13213267667
+
+
+this request spending time :  13.5580000877 
+
+
+the request is processed successfully! user token is 13213267666
+
+
+this request spending time :  13.6670000553 
+
+
+the request is processed successfully! user token is 13213268008
+
+
+the request is processed successfully! user token is 13213268040
+
+
+this request spending time :  12.9979999065 
+
+
+this request spending time :  12.8929998875 
+
+
+the request is processed successfully! user token is 13213268009
+
+
+this request spending time :  13.0729999542 
+
+
+the request is processed successfully! user token is 13213267989
+
+
+this request spending time :  13.2290000916 
+
+
+the request is processed successfully! user token is 13213267974
+
+
+this request spending time :  13.2760000229 
+
+
+the request is processed successfully! user token is 13213267964
+
+
+this request spending time :  13.3580000401 
+
+
+the request is processed successfully! user token is 13213267949
+
+
+this request spending time :  13.4670000076 
+
+
+the request is processed successfully! user token is 13213268108
+
+
+this request spending time :  13.1700000763 
+
+
+the request is processed successfully! user token is 13213268078
+
+
+this request spending time :  13.3000001907 
+
+
+the request is processed successfully! user token is 13213268053
+
+
+this request spending time :  13.4090001583 
+
+
+the request is processed successfully! user token is 13213267574
+
+
+this request spending time :  14.5099999905 
+
+
+the request is processed successfully! user token is 13213267571
+
+
+this request spending time :  14.5719997883 
+
+
+the request is processed successfully! user token is 13213267569
+
+
+this request spending time :  14.6689999104 
+
+
+the request is processed successfully! user token is 13213267568
+
+
+this request spending time :  14.7939999104 
+
+
+the request is processed successfully! user token is 13213267567
+
+
+this request spending time :  14.8249998093 
+
+
+the request is processed successfully! user token is 13213267369
+
+
+this request spending time :  15.0789999962 
+
+
+the request is processed successfully! user token is 13213267504
+
+
+this request spending time :  15.0 
+
+
+the request is processed successfully! user token is 13213267815
+
+
+this request spending time :  14.4839999676 
+
+
+the request is processed successfully! user token is 13213267813
+
+
+this request spending time :  14.5460000038 
+
+
+the request is processed successfully! user token is 13213267811
+
+
+this request spending time :  14.6150000095 
+
+
+the request is processed successfully! user token is 13213267812
+
+
+this request spending time :  14.6769998074 
+
+
+the request is processed successfully! user token is 13213267810
+
+
+this request spending time :  14.754999876 
+
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4BF378>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4BF2B0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4C6C88>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4C6B98>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4BB800>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4BBDF0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F270828>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F270800>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F270738>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F270698>)
+
+the request is processed successfully! user token is 13213267547
+
+
+this request spending time :  17.8970000744 
+
+
+the request is processed successfully! user token is 13213267549
+
+
+this request spending time :  17.9560000896 
+
+
+the request is processed successfully! user token is 13213267548
+
+
+this request spending time :  18.0290000439 
+
+
+the request is processed successfully! user token is 13213267550
+
+
+this request spending time :  18.0879998207 
+
+
+the request is processed successfully! user token is 13213267552
+
+
+this request spending time :  18.1559998989 
+
+
+the request is processed successfully! user token is 13213267551
+
+
+this request spending time :  18.2339999676 
+
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5260>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5238>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4AD1E8>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4AD1C0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4AD8A0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4305F8>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F430120>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4303C8>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F430E18>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F4309E0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F430878>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F242558>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2425A8>)
+
+the request is processed successfully! user token is 13213267554
+
+
+this request spending time :  18.3120000362 
+
+
+the request is processed successfully! user token is 13213267528
+
+
+this request spending time :  18.4720001221 
+
+
+the request is processed successfully! user token is 13213267527
+
+
+this request spending time :  18.5450000763 
+
+
+the request is processed successfully! user token is 13213267572
+
+
+this request spending time :  18.5559999943 
+
+
+the request is processed successfully! user token is 13213267573
+
+
+this request spending time :  18.621999979 
+
+
+the request is processed successfully! user token is 13213267589
+
+
+this request spending time :  18.6690001488 
+
+
+the request is processed successfully! user token is 13213267772
+
+
+this request spending time :  18.3710000515 
+
+
+the request is processed successfully! user token is 13213267774
+
+
+this request spending time :  18.4489998817 
+
+
+the request is processed successfully! user token is 13213268367
+
+
+this request spending time :  17.1730000973 
+
+
+the request is processed successfully! user token is 13213268366
+
+
+this request spending time :  17.2320001125 
+
+
+the request is processed successfully! user token is 13213268365
+
+
+this request spending time :  17.3100001812 
+
+
+the request is processed successfully! user token is 13213268363
+
+
+this request spending time :  17.378000021 
+
+
+the request is processed successfully! user token is 13213268364
+
+
+this request spending time :  17.4560000896 
+
+
+the request is processed successfully! user token is 13213268362
+
+
+this request spending time :  17.5340001583 
+
+
+the request is processed successfully! user token is 13213268361
+
+
+this request spending time :  17.6289999485 
+
+
+the request is processed successfully! user token is 13213267895
+
+
+this request spending time :  18.7509999275 
+
+
+the request is processed successfully! user token is 13213267908
+
+
+this request spending time :  18.8229999542 
+
+
+the request is processed successfully! user token is 13213267939
+
+
+this request spending time :  18.8409998417 
+
+
+the request is processed successfully! user token is 13213268269
+
+
+this request spending time :  18.1740000248 
+
+
+the request is processed successfully! user token is 13213268270
+
+
+this request spending time :  18.2520000935 
+
+
+the request is processed successfully! user token is 13213267556
+
+
+this request spending time :  19.8550000191 
+
+
+the request is processed successfully! user token is 13213267555
+
+
+this request spending time :  19.9329998493 
+
+
+the request is processed successfully! user token is 13213267558
+
+
+this request spending time :  19.993999958 
+
+
+the request is processed successfully! user token is 13213267557
+
+
+this request spending time :  20.0720000267 
+
+
+the request is processed successfully! user token is 13213267559
+
+
+this request spending time :  20.1419999599 
+
+
+the request is processed successfully! user token is 13213267560
+
+
+this request spending time :  20.2349998951 
+
+
+the request is processed successfully! user token is 13213267561
+
+
+this request spending time :  20.2979998589 
+
+
+the request is processed successfully! user token is 13213267562
+
+
+this request spending time :  20.3759999275 
+
+
+the request is processed successfully! user token is 13213268345
+
+
+this request spending time :  18.7539999485 
+
+
+the request is processed successfully! user token is 13213267544
+
+
+this request spending time :  20.5350000858 
+
+
+the request is processed successfully! user token is 13213267775
+
+
+this request spending time :  20.2479999065 
+
+
+the request is processed successfully! user token is 13213267776
+
+
+this request spending time :  20.3259999752 
+
+
+the request is processed successfully! user token is 13213267777
+
+
+this request spending time :  20.3880000114 
+
+
+the request is processed successfully! user token is 13213267778
+
+
+this request spending time :  20.4509999752 
+
+
+the request is processed successfully! user token is 13213267779
+
+
+this request spending time :  20.5290000439 
+
+
+the request is processed successfully! user token is 13213267782
+
+
+this request spending time :  20.6100001335 
+
+
+the request is processed successfully! user token is 13213267384
+
+
+this request spending time :  21.2229998112 
+
+
+the request is processed successfully! user token is 13213267382
+
+
+this request spending time :  21.2699999809 
+
+
+the request is processed successfully! user token is 13213267380
+
+
+this request spending time :  21.2860000134 
+
+
+the request is processed successfully! user token is 13213267506
+
+
+this request spending time :  21.2339999676 
+
+
+the request is processed successfully! user token is 13213267509
+
+
+this request spending time :  21.3119997978 
+
+
+the request is processed successfully! user token is 13213267499
+
+
+this request spending time :  21.4070000648 
+
+
+the request is processed successfully! user token is 13213267508
+
+
+this request spending time :  21.4539999962 
+
+
+the request is processed successfully! user token is 13213268347
+
+
+this request spending time :  19.7809998989 
+
+
+the request is processed successfully! user token is 13213268349
+
+
+this request spending time :  19.8429999352 
+
+
+the request is processed successfully! user token is 13213268348
+
+
+this request spending time :  19.9059998989 
+
+
+the request is processed successfully! user token is 13213268351
+
+
+this request spending time :  19.9949998856 
+
+
+the request is processed successfully! user token is 13213268350
+
+
+this request spending time :  20.0879998207 
+
+
+the request is processed successfully! user token is 13213268353
+
+
+this request spending time :  20.1670000553 
+
+
+the request is processed successfully! user token is 13213268352
+
+
+this request spending time :  20.245000124 
+
+
+the request is processed successfully! user token is 13213268354
+
+
+this request spending time :  20.3069999218 
+
+
+the request is processed successfully! user token is 13213268356
+
+
+this request spending time :  20.368999958 
+
+
+the request is processed successfully! user token is 13213268357
+
+
+this request spending time :  20.4530000687 
+
+
+the request is processed successfully! user token is 13213268358
+
+
+this request spending time :  20.5309998989 
+
+
+the request is processed successfully! user token is 13213268359
+
+
+this request spending time :  20.5969998837 
+
+
+the request is processed successfully! user token is 13213268360
+
+
+this request spending time :  20.6749999523 
+
+
+the request is processed successfully! user token is 13213267909
+
+
+this request spending time :  21.760999918 
+
+
+the request is processed successfully! user token is 13213267511
+
+
+this request spending time :  22.6229999065 
+
+
+the request is processed successfully! user token is 13213267507
+
+
+this request spending time :  22.6949999332 
+
+
+the request is processed successfully! user token is 13213267537
+
+
+this request spending time :  22.7369999886 
+
+
+the request is processed successfully! user token is 13213267536
+
+
+this request spending time :  22.8020000458 
+
+
+the request is processed successfully! user token is 13213267541
+
+
+this request spending time :  22.8680000305 
+
+
+the request is processed successfully! user token is 13213267534
+
+
+this request spending time :  22.9589998722 
+
+
+the request is processed successfully! user token is 13213267535
+
+
+this request spending time :  23.0690000057 
+
+
+the request is processed successfully! user token is 13213267539
+
+
+this request spending time :  23.1470000744 
+
+
+the request is processed successfully! user token is 13213267545
+
+
+this request spending time :  23.1920001507 
+
+
+the request is processed successfully! user token is 13213267538
+
+
+this request spending time :  23.2730000019 
+
+
+the request is processed successfully! user token is 13213267540
+
+
+this request spending time :  23.3320000172 
+
+
+the request is processed successfully! user token is 13213267543
+
+
+this request spending time :  23.4019999504 
+
+
+the request is processed successfully! user token is 13213267542
+
+
+this request spending time :  23.4959998131 
+
+
+the request is processed successfully! user token is 13213267798
+
+
+this request spending time :  23.0629999638 
+
+
+the request is processed successfully! user token is 13213267799
+
+
+this request spending time :  23.1460001469 
+
+
+the request is processed successfully! user token is 13213267800
+
+
+this request spending time :  23.1930000782 
+
+
+the request is processed successfully! user token is 13213267801
+
+
+this request spending time :  23.2710001469 
+
+
+the request is processed successfully! user token is 13213267802
+
+
+this request spending time :  23.3339998722 
+
+
+the request is processed successfully! user token is 13213267803
+
+
+this request spending time :  23.4119999409 
+
+
+the request is processed successfully! user token is 13213267804
+
+
+this request spending time :  23.4949998856 
+
+
+the request is processed successfully! user token is 13213267805
+
+
+this request spending time :  23.5569999218 
+
+
+the request is processed successfully! user token is 13213267808
+
+
+this request spending time :  23.6749999523 
+
+
+the request is processed successfully! user token is 13213267809
+
+
+this request spending time :  23.7379999161 
+
+
+the request is processed successfully! user token is 13213267698
+
+
+this request spending time :  24.1370000839 
+
+
+the request is processed successfully! user token is 13213267701
+
+
+this request spending time :  24.1990001202 
+
+
+the request is processed successfully! user token is 13213267700
+
+
+this request spending time :  24.2739999294 
+
+
+the request is processed successfully! user token is 13213267702
+
+
+this request spending time :  24.3519999981 
+
+
+the request is processed successfully! user token is 13213267703
+
+
+this request spending time :  24.4170000553 
+
+
+the request is processed successfully! user token is 13213267704
+
+
+this request spending time :  24.495000124 
+
+
+the request is processed successfully! user token is 13213267705
+
+
+this request spending time :  24.5580000877 
+
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F21A738>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F21A5A8>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5288>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C52B0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5328>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5698>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5760>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5DF0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5BC0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5850>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5C38>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5170>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F2C5468>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B45D0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B43A0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4F58>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4260>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4300>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4760>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4120>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4A30>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4C60>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F3B4648>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CF80>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C968>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CDA0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C8F0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C9E0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C5F8>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CC60>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C990>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CE18>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CB48>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CA80>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C350>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C760>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C670>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C328>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C7B0>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58CF08>)
+(<class 'httplib.BadStatusLine'>, BadStatusLine("''",), <traceback object at 0x4F58C0F8>)
+
+the request is processed successfully! user token is 13213267708
+
+
+this request spending time :  24.635999918 
+
+
+the request is processed successfully! user token is 13213267710
+
+
+this request spending time :  24.6989998817 
+
+
+the request is processed successfully! user token is 13213267711
+
+
+this request spending time :  24.7749998569 
+
+
+the request is processed successfully! user token is 13213267712
+
+
+this request spending time :  24.8379998207 
+
+
+the request is processed successfully! user token is 13213267714
+
+
+this request spending time :  24.9199998379 
+
+
+the request is processed successfully! user token is 13213267713
+
+
+this request spending time :  24.9819998741 
+
+
+the request is processed successfully! user token is 13213267697
+
+
+this request spending time :  25.1380000114 
+
+
+the request is processed successfully! user token is 13213267691
+
+
+this request spending time :  25.2000000477 
+
+
+the request is processed successfully! user token is 13213267695
+
+
+this request spending time :  25.2880001068 
+
+
+the request is processed successfully! user token is 13213267696
+
+
+this request spending time :  25.3529999256 
+
+
+the request is processed successfully! user token is 13213267694
+
+
+this request spending time :  25.4309999943 
+
+
+the request is processed successfully! user token is 13213267693
+
+
+this request spending time :  25.498000145 
+
+
+the request is processed successfully! user token is 13213267692
+
+
+this request spending time :  25.5759999752 
+
+
+the request is processed successfully! user token is 13213267690
+
+
+this request spending time :  25.6529998779 
+
+
+the request is processed successfully! user token is 13213267689
+
+
+this request spending time :  25.7309999466 
+
+
+the request is processed successfully! user token is 13213267686
+
+
+this request spending time :  25.8049998283 
+
+
+the request is processed successfully! user token is 13213267688
+
+
+this request spending time :  25.8669998646 
+
+
+the request is processed successfully! user token is 13213267684
+
+
+this request spending time :  25.9579999447 
+
+
+the request is processed successfully! user token is 13213267687
+
+
+this request spending time :  26.0209999084 
+
+
+the request is processed successfully! user token is 13213267685
+
+
+this request spending time :  26.1009998322 
+
+
+the request is processed successfully! user token is 13213267682
+
+
+this request spending time :  26.1629998684 
+
+
+the request is processed successfully! user token is 13213267679
+
+
+this request spending time :  26.271999836 
+
+
+the request is processed successfully! user token is 13213267681
+
+
+this request spending time :  26.3499999046 
+
+
+the request is processed successfully! user token is 13213267680
+
+
+this request spending time :  26.4129998684 
+
+
+the request is processed successfully! user token is 13213267678
+
+
+this request spending time :  26.510999918 
+
+
+the request is processed successfully! user token is 13213267676
+
+
+this request spending time :  26.5729999542 
+
+
+the request is processed successfully! user token is 13213267677
+
+
+this request spending time :  26.6510000229 
+
+
+the request is processed successfully! user token is 13213267673
+
+
+this request spending time :  26.7289998531 
+
+
+the request is processed successfully! user token is 13213267675
+
+
+this request spending time :  26.7909998894 
+
+
+the request is processed successfully! user token is 13213267674
+
+
+this request spending time :  26.8680000305 
+
+
+the request is processed successfully! user token is 13213267672
+
+
+this request spending time :  26.9459998608 
+
+
+the request is processed successfully! user token is 13213267671
+
+
+this request spending time :  27.0149998665 
+
+
+the request is processed successfully! user token is 13213267670
+
+
+this request spending time :  27.0779998302 
+
+
+the request is processed successfully! user token is 13213267669
+
+
+this request spending time :  27.1559998989 
+
+
+the request is processed successfully! user token is 13213267665
+
+
+this request spending time :  27.2649998665 
+
+
+the request is processed successfully! user token is 13213267662
+
+
+this request spending time :  27.3310000896 
+
+
+the request is processed successfully! user token is 13213267664
+
+
+this request spending time :  27.4309999943 
+
+
+the request is processed successfully! user token is 13213267663
+
+
+this request spending time :  27.4979999065 
+
+
+the request is processed successfully! user token is 13213267660
+
+
+this request spending time :  27.5759999752 
+
+
+the request is processed successfully! user token is 13213267659
+
+
+this request spending time :  27.6540000439 
+
+
+the request is processed successfully! user token is 13213267655
+
+
+this request spending time :  27.7350001335 
+
+
+the request is processed successfully! user token is 13213267658
+
+
+this request spending time :  27.7979998589 
+
+
+the request is processed successfully! user token is 13213267657
+
+
+this request spending time :  27.8680000305 
+
+
+the request is processed successfully! user token is 13213268044
+
+
+this request spending time :  27.0629999638 
+
+
+the request is processed successfully! user token is 13213268045
+
+
+this request spending time :  27.114000082 
+
+
+the request is processed successfully! user token is 13213268043
+
+
+this request spending time :  27.1920001507 
+
+
+the request is processed successfully! user token is 13213268042
+
+
+this request spending time :  27.2769999504 
+
+
+the request is processed successfully! user token is 13213268038
+
+
+this request spending time :  27.3550000191 
+
+
+the request is processed successfully! user token is 13213268039
+
+
+this request spending time :  27.4329998493 
+
+
+the request is processed successfully! user token is 13213268036
+
+
+this request spending time :  27.4960000515 
+
+
+the request is processed successfully! user token is 13213268268
+
+
+this request spending time :  27.1130001545 
+
+
+the request is processed successfully! user token is 13213268265
+
+
+this request spending time :  27.1910002232 
+
+
+the request is processed successfully! user token is 13213268267
+
+
+this request spending time :  27.2540001869 
+
+
+the request is processed successfully! user token is 13213268266
+
+
+this request spending time :  27.3320000172 
+
+
+the request is processed successfully! user token is 13213268264
+
+
+this request spending time :  27.3940000534 
+
+
+the request is processed successfully! user token is 13213268263
+
+
+this request spending time :  27.4700000286 
+
+
+the request is processed successfully! user token is 13213268262
+
+
+this request spending time :  27.5469999313 
+
+
+the request is processed successfully! user token is 13213267932
+
+
+this request spending time :  30.7430000305 
+
+
+the request is processed successfully! user token is 13213267933
+
+
+this request spending time :  30.7899999619 
+
+
+the request is processed successfully! user token is 13213267934
+
+
+this request spending time :  30.8570001125 
+
+
+the request is processed successfully! user token is 13213267935
+
+
+this request spending time :  30.9350001812 
+
+
+the request is processed successfully! user token is 13213267936
+
+
+this request spending time :  31.0130000114 
+
+
+the request is processed successfully! user token is 13213267937
+
+
+this request spending time :  31.0759999752 
+
+
+the request is processed successfully! user token is 13213267383
+
+
+the request is processed successfully! user token is 13213267381
+
+
+this request spending time :  32.0779998302 
+
+
+this request spending time :  32.0779998302 
+
+
+the request is processed successfully! user token is 13213267379
+
+
+this request spending time :  32.1099998951 
+
+
+the request is processed successfully! user token is 13213267376
+
+
+this request spending time :  32.125 
+
+
+the request is processed successfully! user token is 13213267377
+
+
+this request spending time :  32.1410000324 
+
+
+the request is processed successfully! user token is 13213267378
+
+
+the request is processed successfully! user token is 13213267375
+
+
+this request spending time :  32.2019999027 
+
+
+this request spending time :  32.2019999027 
+
+
+the request is processed successfully! user token is 13213267372
+
+
+this request spending time :  32.2019999027 
+
+
+the request is processed successfully! user token is 13213267373
+
+
+this request spending time :  32.2329998016 
+
+
+the request is processed successfully! user token is 13213267374
+
+
+this request spending time :  32.2479999065 
+
+
+the request is processed successfully! user token is 13213267940
+
+
+this request spending time :  31.3439998627 
+
+
+the request is processed successfully! user token is 13213267941
+
+
+this request spending time :  31.4219999313 
+
+
+the request is processed successfully! user token is 13213267942
+
+
+this request spending time :  31.5499999523 
+
+
+the request is processed successfully! user token is 13213267943
+
+
+this request spending time :  31.6119999886 
+
+
+the request is processed successfully! user token is 13213267945
+
+
+this request spending time :  31.6740000248 
+
+
+the request is processed successfully! user token is 13213267944
+
+
+this request spending time :  31.7479999065 
+
+
+the request is processed successfully! user token is 13213267946
+
+
+this request spending time :  31.8259999752 
+
+
+the request is processed successfully! user token is 13213267947
+
+
+this request spending time :  31.8759999275 
+
+
+the request is processed successfully! user token is 13213267950
+
+
+this request spending time :  31.9539999962 
+
+
+the request is processed successfully! user token is 13213267951
+
+
+this request spending time :  32.0319998264 
+
+
+the request is processed successfully! user token is 13213267952
+
+
+this request spending time :  32.0939998627 
+
+
+the request is processed successfully! user token is 13213267954
+
+
+this request spending time :  32.1399998665 
+
+
+the request is processed successfully! user token is 13213267953
+
+
+this request spending time :  32.2300000191 
+
+
+the request is processed successfully! user token is 13213267955
+
+
+this request spending time :  32.3190000057 
+
+
+the request is processed successfully! user token is 13213267957
+
+
+this request spending time :  32.3659999371 
+
+
+the request is processed successfully! user token is 13213267958
+
+
+this request spending time :  32.4289999008 
+
+
+the request is processed successfully! user token is 13213267959
+
+
+this request spending time :  32.5529999733 
+
+
+the request is processed successfully! user token is 13213267960
+
+
+this request spending time :  32.6159999371 
+
+
+the request is processed successfully! user token is 13213267962
+
+
+this request spending time :  32.6949999332 
+
+
+the request is processed successfully! user token is 13213267961
+
+
+this request spending time :  32.742000103 
+
+
+the request is processed successfully! user token is 13213267966
+
+
+this request spending time :  32.8120000362 
+
+
+the request is processed successfully! user token is 13213267968
+
+
+this request spending time :  32.9049999714 
+
+
+the request is processed successfully! user token is 13213267967
+
+
+this request spending time :  32.9520001411 
+
+
+the request is processed successfully! user token is 13213267969
+
+
+this request spending time :  33.0299999714 
+
+
+the request is processed successfully! user token is 13213267971
+
+
+this request spending time :  33.1080000401 
+
+
+the request is processed successfully! user token is 13213267972
+
+
+this request spending time :  33.1519999504 
+
+
+the request is processed successfully! user token is 13213267970
+
+
+this request spending time :  33.2139999866 
+
+
+the request is processed successfully! user token is 13213267973
+
+
+this request spending time :  33.2980000973 
+
+
+the request is processed successfully! user token is 13213267975
+
+
+this request spending time :  33.361000061 
+
+
+the request is processed successfully! user token is 13213267979
+
+
+this request spending time :  33.4230000973 
+
+
+the request is processed successfully! user token is 13213267981
+
+
+this request spending time :  33.4889998436 
+
+
+the request is processed successfully! user token is 13213267980
+
+
+this request spending time :  33.5979998112 
+
+
+the request is processed successfully! user token is 13213267982
+
+
+this request spending time :  33.6679999828 
+
+
+the request is processed successfully! user token is 13213267983
+
+
+this request spending time :  33.7299997807 
+
+
+the request is processed successfully! user token is 13213267984
+
+
+this request spending time :  33.7800002098 
+
+
+the request is processed successfully! user token is 13213267985
+
+
+this request spending time :  33.8580000401 
+
+
+the request is processed successfully! user token is 13213267986
+
+
+this request spending time :  33.9210000038 
+
+
+the request is processed successfully! user token is 13213267987
+
+
+this request spending time :  34.0140001774 
+
+
+the request is processed successfully! user token is 13213267990
+
+
+this request spending time :  34.0770001411 
+
+
+the request is processed successfully! user token is 13213267991
+
+
+this request spending time :  34.1370000839 
+
+
+the request is processed successfully! user token is 13213267992
+
+
+this request spending time :  34.2150001526 
+
+
+the request is processed successfully! user token is 13213267993
+
+
+this request spending time :  34.2980000973 
+
+
+the request is processed successfully! user token is 13213267994
+
+
+this request spending time :  34.3440001011 
+
+
+the request is processed successfully! user token is 13213267995
+
+
+this request spending time :  34.4379999638 
+
+
+the request is processed successfully! user token is 13213267997
+
+
+this request spending time :  34.5 
+
+
+the request is processed successfully! user token is 13213267996
+
+
+this request spending time :  34.5800001621 
+
+
+the request is processed successfully! user token is 13213267999
+
+
+this request spending time :  34.6830000877 
+
+
+the request is processed successfully! user token is 13213268001
+
+
+this request spending time :  34.736000061 
+
+
+the request is processed successfully! user token is 13213268002
+
+
+this request spending time :  34.8139998913 
+
+
+the request is processed successfully! user token is 13213268003
+
+
+this request spending time :  34.8759999275 
+
+
+the request is processed successfully! user token is 13213268004
+
+
+this request spending time :  34.9539999962 
+
+
+the request is processed successfully! user token is 13213268005
+
+
+this request spending time :  35.0479998589 
+
+
+the request is processed successfully! user token is 13213268006
+
+
+this request spending time :  35.1210000515 
+
+
+the request is processed successfully! user token is 13213268010
+
+
+this request spending time :  35.1829998493 
+
+
+the request is processed successfully! user token is 13213268011
+
+
+this request spending time :  35.2539999485 
+
+
+the request is processed successfully! user token is 13213268012
+
+
+this request spending time :  35.3159999847 
+
+
+the request is processed successfully! user token is 13213268013
+
+
+this request spending time :  35.393999815 
+
+
+the request is processed successfully! user token is 13213268014
+
+
+this request spending time :  35.4719998837 
+
+
+the request is processed successfully! user token is 13213268015
+
+
+this request spending time :  35.5199999809 
+
+
+the request is processed successfully! user token is 13213268016
+
+
+this request spending time :  35.5889999866 
+
+
+the request is processed successfully! user token is 13213268018
+
+
+this request spending time :  35.6510000229 
+
+
+the request is processed successfully! user token is 13213268020
+
+
+this request spending time :  35.7260000706 
+
+
+the request is processed successfully! user token is 13213268021
+
+
+this request spending time :  35.7860000134 
+
+
+the request is processed successfully! user token is 13213268022
+
+
+this request spending time :  35.8630001545 
+
+
+the request is processed successfully! user token is 13213268025
+
+
+this request spending time :  35.9100000858 
+
+
+the request is processed successfully! user token is 13213268027
+
+
+this request spending time :  35.986000061 
+
+
+the request is processed successfully! user token is 13213268026
+
+
+this request spending time :  36.0479998589 
+
+
+the request is processed successfully! user token is 13213268030
+
+
+this request spending time :  36.135999918 
+
+
+the request is processed successfully! user token is 13213268028
+
+
+this request spending time :  36.1989998817 
+
+
+the request is processed successfully! user token is 13213268031
+
+
+this request spending time :  36.260999918 
+
+
+the request is processed successfully! user token is 13213267656
+
+
+this request spending time :  37.1950001717 
+
+
+the request is processed successfully! user token is 13213267654
+
+
+this request spending time :  37.2730000019 
+
+
+the request is processed successfully! user token is 13213267653
+
+
+this request spending time :  37.3440001011 
+
+
+the request is processed successfully! user token is 13213267651
+
+
+this request spending time :  37.4000000954 
+
+
+the request is processed successfully! user token is 13213267652
+
+
+this request spending time :  37.478000164 
+
+
+the request is processed successfully! user token is 13213267649
+
+
+this request spending time :  37.5480000973 
+
+
+the request is processed successfully! user token is 13213267650
+
+
+this request spending time :  37.6419999599 
+
+
+the request is processed successfully! user token is 13213267648
+
+
+this request spending time :  37.7300000191 
+
+
+the request is processed successfully! user token is 13213267647
+
+
+this request spending time :  37.7920000553 
+
+
+the request is processed successfully! user token is 13213267646
+
+
+this request spending time :  37.8840000629 
+
+
+the request is processed successfully! user token is 13213267644
+
+
+this request spending time :  37.9460000992 
+
+
+the request is processed successfully! user token is 13213267645
+
+
+this request spending time :  37.998000145 
+
+
+the request is processed successfully! user token is 13213267643
+
+
+this request spending time :  38.0759999752 
+
+
+the request is processed successfully! user token is 13213267642
+
+
+this request spending time :  38.1390001774 
+
+
+the request is processed successfully! user token is 13213267640
+
+
+this request spending time :  38.2369999886 
+
+
+the request is processed successfully! user token is 13213267641
+
+
+this request spending time :  38.2810001373 
+
+
+the request is processed successfully! user token is 13213267639
+
+
+this request spending time :  38.385999918 
+
+
+the request is processed successfully! user token is 13213267637
+
+
+this request spending time :  38.4479999542 
+
+
+the request is processed successfully! user token is 13213267635
+
+
+this request spending time :  38.5470001698 
+
+
+the request is processed successfully! user token is 13213267633
+
+
+this request spending time :  38.5940001011 
+
+
+the request is processed successfully! user token is 13213267634
+
+
+this request spending time :  38.6570000648 
+
+
+the request is processed successfully! user token is 13213267632
+
+
+this request spending time :  38.7810001373 
+
+
+the request is processed successfully! user token is 13213267631
+
+
+this request spending time :  38.8589999676 
+
+
+the request is processed successfully! user token is 13213267630
+
+
+this request spending time :  38.9160001278 
+
+
+the request is processed successfully! user token is 13213267629
+
+
+this request spending time :  38.993999958 
+
+
+the request is processed successfully! user token is 13213267628
+
+
+this request spending time :  39.0490000248 
+
+
+the request is processed successfully! user token is 13213267627
+
+
+this request spending time :  39.114000082 
+
+
+the request is processed successfully! user token is 13213267625
+
+
+this request spending time :  39.1920001507 
+
+
+the request is processed successfully! user token is 13213267626
+
+
+this request spending time :  39.2699999809 
+
+
+the request is processed successfully! user token is 13213267623
+
+
+this request spending time :  39.3800001144 
+
+
+the request is processed successfully! user token is 13213267624
+
+
+this request spending time :  39.4430000782 
+
+
+the request is processed successfully! user token is 13213267621
+
+
+this request spending time :  39.506000042 
+
+
+the request is processed successfully! user token is 13213267622
+
+
+this request spending time :  39.5760002136 
+
+
+the request is processed successfully! user token is 13213267620
+
+
+this request spending time :  39.6390001774 
+
+
+the request is processed successfully! user token is 13213267618
+
+
+this request spending time :  39.7170000076 
+
+
+the request is processed successfully! user token is 13213267619
+
+
+this request spending time :  39.7950000763 
+
+
+the request is processed successfully! user token is 13213267617
+
+
+this request spending time :  39.9010000229 
+
+
+the request is processed successfully! user token is 13213267616
+
+
+this request spending time :  39.9639999866 
+
+
+the request is processed successfully! user token is 13213267615
+
+
+this request spending time :  40.0610001087 
+
+
+the request is processed successfully! user token is 13213267614
+
+
+this request spending time :  40.1240000725 
+
+
+the request is processed successfully! user token is 13213267613
+
+
+this request spending time :  40.1860001087 
+
+
+the request is processed successfully! user token is 13213267607
+
+
+this request spending time :  40.265999794 
+
+
+the request is processed successfully! user token is 13213267606
+
+
+this request spending time :  40.3289999962 
+
+
+the request is processed successfully! user token is 13213267605
+
+
+this request spending time :  40.390999794 
+
+
+the request is processed successfully! user token is 13213268261
+
+
+this request spending time :  39.0329999924 
+
+
+the request is processed successfully! user token is 13213268260
+
+
+this request spending time :  39.0950000286 
+
+
+the request is processed successfully! user token is 13213268259
+
+
+this request spending time :  39.1640000343 
+
+
+the request is processed successfully! user token is 13213268256
+
+
+this request spending time :  39.2419998646 
+
+
+the request is processed successfully! user token is 13213268258
+
+
+this request spending time :  39.3050000668 
+
+
+the request is processed successfully! user token is 13213268257
+
+
+this request spending time :  39.382999897 
+
+
+the request is processed successfully! user token is 13213268254
+
+
+this request spending time :  39.4609999657 
+
+
+the request is processed successfully! user token is 13213268344
+
+
+this request spending time :  39.3729999065 
+
+
+the request is processed successfully! user token is 13213268346
+
+
+this request spending time :  39.4399998188 
+
+
+the request is processed successfully! user token is 13213268343
+
+
+this request spending time :  39.518999815 
+
+
+the request is processed successfully! user token is 13213268341
+
+
+this request spending time :  39.5659999847 
+
+
+the request is processed successfully! user token is 13213268342
+
+
+this request spending time :  39.6309998035 
+
+
+the request is processed successfully! user token is 13213268340
+
+
+this request spending time :  39.7089998722 
+
+
+the request is processed successfully! user token is 13213268339
+
+
+this request spending time :  39.7709999084 
+
+
+the request is processed successfully! user token is 13213268338
+
+
+this request spending time :  39.8420000076 
+
+
+the request is processed successfully! user token is 13213268337
+
+
+this request spending time :  39.9359998703 
+
+
+the request is processed successfully! user token is 13213268336
+
+
+this request spending time :  39.9909999371 
+
+
+the request is processed successfully! user token is 13213268335
+
+
+this request spending time :  40.0690000057 
+
+
+the request is processed successfully! user token is 13213268333
+
+
+this request spending time :  40.131000042 
+
+
+the request is processed successfully! user token is 13213268032
+
+
+this request spending time :  40.8669998646 
+
+
+the request is processed successfully! user token is 13213268033
+
+
+this request spending time :  40.9449999332 
+
+
+the request is processed successfully! user token is 13213268034
+
+
+this request spending time :  41.0169999599 
+
+
+the request is processed successfully! user token is 13213268035
+
+
+this request spending time :  41.1150000095 
+
+
+the request is processed successfully! user token is 13213267604
+
+
+this request spending time :  43.2059998512 
+
+
+the request is processed successfully! user token is 13213267603
+
+
+this request spending time :  43.2589998245 
+
+
+the request is processed successfully! user token is 13213267602
+
+
+this request spending time :  43.3369998932 
+
+
+the request is processed successfully! user token is 13213267601
+
+
+this request spending time :  43.4110000134 
+
+
+the request is processed successfully! user token is 13213267600
+
+
+this request spending time :  43.4809999466 
+
+
+the request is processed successfully! user token is 13213267598
+
+
+this request spending time :  43.5429999828 
+
+
+the request is processed successfully! user token is 13213267596
+
+
+this request spending time :  43.6259999275 
+
+
+the request is processed successfully! user token is 13213267595
+
+
+this request spending time :  43.6879999638 
+
+
+the request is processed successfully! user token is 13213267597
+
+
+this request spending time :  43.7660000324 
+
+
+the request is processed successfully! user token is 13213267594
+
+
+this request spending time :  43.8289999962 
+
+
+the request is processed successfully! user token is 13213267592
+
+
+this request spending time :  43.8910000324 
+
+
+the request is processed successfully! user token is 13213267593
+
+
+this request spending time :  43.9790000916 
+
+
+the request is processed successfully! user token is 13213267591
+
+
+this request spending time :  44.0420000553 
+
+
+the request is processed successfully! user token is 13213267590
+
+
+this request spending time :  44.1080000401 
+
+
+the request is processed successfully! user token is 13213267587
+
+
+this request spending time :  44.2330000401 
+
+
+the request is processed successfully! user token is 13213267586
+
+
+this request spending time :  44.2960000038 
+
+
+the request is processed successfully! user token is 13213267585
+
+
+this request spending time :  44.3740000725 
+
+
+the request is processed successfully! user token is 13213267584
+
+
+this request spending time :  44.4460000992 
+
+
+the request is processed successfully! user token is 13213267583
+
+
+this request spending time :  44.5099999905 
+
+
+the request is processed successfully! user token is 13213267581
+
+
+this request spending time :  44.6080000401 
+
+
+the request is processed successfully! user token is 13213267582
+
+
+this request spending time :  44.6700000763 
+
+
+the request is processed successfully! user token is 13213267580
+
+
+this request spending time :  44.748000145 
+
+
+the request is processed successfully! user token is 13213267579
+
+
+this request spending time :  44.7799999714 
+
+
+the request is processed successfully! user token is 13213267578
+
+
+this request spending time :  44.873000145 
+
+
+the request is processed successfully! user token is 13213267577
+
+
+this request spending time :  44.9200000763 
+
+
+the request is processed successfully! user token is 13213267575
+
+
+this request spending time :  45.0099999905 
+
+
+the request is processed successfully! user token is 13213267576
+
+
+this request spending time :  45.0729999542 
+
+
+the request is processed successfully! user token is 13213267931
+
+
+this request spending time :  44.3949999809 
+
+
+the request is processed successfully! user token is 13213267930
+
+
+this request spending time :  44.5199999809 
+
+
+the request is processed successfully! user token is 13213267927
+
+
+this request spending time :  44.5830001831 
+
+
+the request is processed successfully! user token is 13213267929
+
+
+this request spending time :  44.6610000134 
+
+
+the request is processed successfully! user token is 13213267926
+
+
+this request spending time :  44.728000164 
+
+
+the request is processed successfully! user token is 13213267925
+
+
+this request spending time :  44.7940001488 
+
+
+the request is processed successfully! user token is 13213267924
+
+
+this request spending time :  44.856000185 
+
+
+the request is processed successfully! user token is 13213267923
+
+
+this request spending time :  44.9359998703 
+
+
+the request is processed successfully! user token is 13213267922
+
+
+this request spending time :  44.9990000725 
+
+
+the request is processed successfully! user token is 13213267921
+
+
+this request spending time :  45.0609998703 
+
+
+the request is processed successfully! user token is 13213267919
+
+
+this request spending time :  45.138999939 
+
+
+the request is processed successfully! user token is 13213267920
+
+
+this request spending time :  45.2019999027 
+
+
+the request is processed successfully! user token is 13213267918
+
+
+this request spending time :  45.260999918 
+
+
+the request is processed successfully! user token is 13213267917
+
+
+this request spending time :  45.3389999866 
+
+
+the request is processed successfully! user token is 13213267916
+
+
+this request spending time :  45.3940000534 
+
+
+the request is processed successfully! user token is 13213267915
+
+
+this request spending time :  45.4719998837 
+
+
+the request is processed successfully! user token is 13213267914
+
+
+this request spending time :  45.5829999447 
+
+
+the request is processed successfully! user token is 13213267913
+
+
+this request spending time :  45.6459999084 
+
+
+the request is processed successfully! user token is 13213267911
+
+
+this request spending time :  45.7239999771 
+
+
+the request is processed successfully! user token is 13213267904
+
+
+this request spending time :  45.8190000057 
+
+
+the request is processed successfully! user token is 13213267906
+
+
+this request spending time :  45.8659999371 
+
+
+the request is processed successfully! user token is 13213267905
+
+
+this request spending time :  45.9360001087 
+
+
+the request is processed successfully! user token is 13213267903
+
+
+this request spending time :  46.013999939 
+
+
+the request is processed successfully! user token is 13213267902
+
+
+this request spending time :  46.0770001411 
+
+
+the request is processed successfully! user token is 13213267900
+
+
+this request spending time :  46.1549999714 
+
+
+the request is processed successfully! user token is 13213267901
+
+
+this request spending time :  46.2170000076 
+
+
+the request is processed successfully! user token is 13213267898
+
+
+this request spending time :  46.3079998493 
+
+
+the request is processed successfully! user token is 13213267897
+
+
+this request spending time :  46.385999918 
+
+
+the request is processed successfully! user token is 13213267896
+
+
+this request spending time :  46.4679999352 
+
+
+the request is processed successfully! user token is 13213267894
+
+
+this request spending time :  46.5299999714 
+
+
+the request is processed successfully! user token is 13213267893
+
+
+this request spending time :  46.5769999027 
+
+
+the request is processed successfully! user token is 13213267892
+
+
+this request spending time :  46.6699998379 
+
+
+the request is processed successfully! user token is 13213267891
+
+
+this request spending time :  46.763999939 
+
+
+the request is processed successfully! user token is 13213267890
+
+
+this request spending time :  46.8239998817 
+
+
+the request is processed successfully! user token is 13213267889
+
+
+this request spending time :  46.9179999828 
+
+
+the request is processed successfully! user token is 13213267888
+
+
+this request spending time :  46.9570000172 
+
+
+the request is processed successfully! user token is 13213267887
+
+
+this request spending time :  47.018999815 
+
+
+the request is processed successfully! user token is 13213267886
+
+
+this request spending time :  47.0969998837 
+
+
+the request is processed successfully! user token is 13213267885
+
+
+this request spending time :  47.1599998474 
+
+
+the request is processed successfully! user token is 13213267884
+
+
+this request spending time :  47.2219998837 
+
+
+the request is processed successfully! user token is 13213267883
+
+
+this request spending time :  47.2999999523 
+
+
+the request is processed successfully! user token is 13213267879
+
+
+this request spending time :  47.3659999371 
+
+
+the request is processed successfully! user token is 13213267882
+
+
+this request spending time :  47.4290001392 
+
+
+the request is processed successfully! user token is 13213267881
+
+
+this request spending time :  47.498000145 
+
+
+the request is processed successfully! user token is 13213267876
+
+
+this request spending time :  47.5610001087 
+
+
+the request is processed successfully! user token is 13213267874
+
+
+this request spending time :  47.628000021 
+
+
+the request is processed successfully! user token is 13213267875
+
+
+this request spending time :  47.7369999886 
+
+
+the request is processed successfully! user token is 13213267873
+
+
+this request spending time :  47.8159999847 
+
+
+the request is processed successfully! user token is 13213267872
+
+
+this request spending time :  47.8870000839 
+
+
+the request is processed successfully! user token is 13213267871
+
+
+this request spending time :  47.9490001202 
+
+
+the request is processed successfully! user token is 13213267869
+
+
+this request spending time :  48.0150001049 
+
+
+the request is processed successfully! user token is 13213267870
+
+
+this request spending time :  48.0930001736 
+
+
+the request is processed successfully! user token is 13213267868
+
+
+this request spending time :  48.1549999714 
+
+
+the request is processed successfully! user token is 13213267865
+
+
+this request spending time :  48.2490000725 
+
+
+the request is processed successfully! user token is 13213267864
+
+
+this request spending time :  48.3270001411 
+
+
+the request is processed successfully! user token is 13213267863
+
+
+this request spending time :  48.3619999886 
+
+
+the request is processed successfully! user token is 13213267862
+
+
+this request spending time :  48.4240000248 
+
+
+the request is processed successfully! user token is 13213267860
+
+
+this request spending time :  48.4869999886 
+
+
+the request is processed successfully! user token is 13213267859
+
+
+this request spending time :  48.5670001507 
+
+
+the request is processed successfully! user token is 13213267858
+
+
+this request spending time :  48.6290001869 
+
+
+the request is processed successfully! user token is 13213267856
+
+
+this request spending time :  48.7150001526 
+
+
+the request is processed successfully! user token is 13213267857
+
+
+this request spending time :  48.8080000877 
+
+
+the request is processed successfully! user token is 13213267855
+
+
+this request spending time :  48.8870000839 
+
+
+the request is processed successfully! user token is 13213267854
+
+
+this request spending time :  48.9490001202 
+
+
+the request is processed successfully! user token is 13213267853
+
+
+this request spending time :  49.0180001259 
+
+
+the request is processed successfully! user token is 13213267851
+
+
+this request spending time :  49.0960001945 
+
+
+the request is processed successfully! user token is 13213267850
+
+
+this request spending time :  49.1579999924 
+
+
+the request is processed successfully! user token is 13213267849
+
+
+this request spending time :  49.2269999981 
+
+
+the request is processed successfully! user token is 13213267848
+
+
+this request spending time :  49.2890000343 
+
+
+the request is processed successfully! user token is 13213267847
+
+
+this request spending time :  49.3519999981 
+
+
+the request is processed successfully! user token is 13213267846
+
+
+this request spending time :  49.4230000973 
+
+
+the request is processed successfully! user token is 13213267845
+
+
+this request spending time :  49.486000061 
+
+
+the request is processed successfully! user token is 13213267844
+
+
+this request spending time :  49.5510001183 
+
+
+the request is processed successfully! user token is 13213267842
+
+
+this request spending time :  49.6130001545 
+
+
+the request is processed successfully! user token is 13213267841
+
+
+this request spending time :  49.6909999847 
+
+
+the request is processed successfully! user token is 13213267840
+
+
+this request spending time :  49.7690000534 
+
+
+the request is processed successfully! user token is 13213267839
+
+
+this request spending time :  49.8619999886 
+
+
+the request is processed successfully! user token is 13213267837
+
+
+this request spending time :  49.9379999638 
+
+
+the request is processed successfully! user token is 13213267838
+
+
+this request spending time :  50.0 
+
+
+the request is processed successfully! user token is 13213267836
+
+
+this request spending time :  50.0659999847 
+
+
+the request is processed successfully! user token is 13213267833
+
+
+this request spending time :  50.1440000534 
+
+
+the request is processed successfully! user token is 13213267831
+
+
+this request spending time :  50.2060000896 
+
+
+the request is processed successfully! user token is 13213267830
+
+
+this request spending time :  50.2690000534 
+
+
+the request is processed successfully! user token is 13213267828
+
+
+this request spending time :  50.3310000896 
+
+
+the request is processed successfully! user token is 13213267829
+
+
+this request spending time :  50.4219999313 
+
+
+the request is processed successfully! user token is 13213267827
+
+
+this request spending time :  50.4850001335 
+
+
+the request is processed successfully! user token is 13213267826
+
+
+this request spending time :  50.5469999313 
+
+
+the request is processed successfully! user token is 13213267825
+
+
+this request spending time :  50.617000103 
+
+
+the request is processed successfully! user token is 13213267824
+
+
+this request spending time :  50.6790001392 
+
+
+the request is processed successfully! user token is 13213267822
+
+
+this request spending time :  50.743999958 
+
+
+the request is processed successfully! user token is 13213267820
+
+
+this request spending time :  50.8059999943 
+
+
+the request is processed successfully! user token is 13213267819
+
+
+this request spending time :  50.9149999619 
+
+
+the request is processed successfully! user token is 13213267818
+
+
+this request spending time :  51.0309998989 
+
+
+the request is processed successfully! user token is 13213267817
+
+
+this request spending time :  51.0619997978 
+
+
+the request is processed successfully! user token is 13213268255
+
+
+this request spending time :  50.1749999523 
+
+
+the request is processed successfully! user token is 13213268253
+
+
+this request spending time :  50.2379999161 
+
+
+the request is processed successfully! user token is 13213268252
+
+
+this request spending time :  50.2999999523 
+
+
+the request is processed successfully! user token is 13213268251
+
+
+this request spending time :  50.3629999161 
+
+
+the request is processed successfully! user token is 13213268250
+
+
+this request spending time :  50.4249999523 
+
+
+the request is processed successfully! user token is 13213268248
+
+
+this request spending time :  50.4979999065 
+
+
+the request is processed successfully! user token is 13213268249
+
+
+this request spending time :  50.5480000973 
+
+
+the request is processed successfully! user token is 13213268247
+
+
+this request spending time :  50.6159999371 
+
+
+the request is processed successfully! user token is 13213268246
+
+
+this request spending time :  50.6809999943 
+
+
+the request is processed successfully! user token is 13213268244
+
+
+this request spending time :  50.760999918 
+
+
+the request is processed successfully! user token is 13213268243
+
+
+this request spending time :  50.8280000687 
+
+
+the request is processed successfully! user token is 13213268242
+
+
+this request spending time :  50.8900001049 
+
+
+the request is processed successfully! user token is 13213268241
+
+
+this request spending time :  50.9990000725 
+
+
+the request is processed successfully! user token is 13213268240
+
+
+this request spending time :  51.0569999218 
+
+
+the request is processed successfully! user token is 13213268237
+
+
+this request spending time :  51.120000124 
+
+
+the request is processed successfully! user token is 13213268239
+
+
+this request spending time :  51.1860001087 
+
+
+the request is processed successfully! user token is 13213268238
+
+
+this request spending time :  51.2479999065 
+
+
+the request is processed successfully! user token is 13213268236
+
+
+this request spending time :  51.3420000076 
+
+
+the request is processed successfully! user token is 13213268235
+
+
+this request spending time :  51.4200000763 
+
+
+the request is processed successfully! user token is 13213268234
+
+
+this request spending time :  51.4670000076 
+
+
+the request is processed successfully! user token is 13213268231
+
+
+this request spending time :  51.5350000858 
+
+
+the request is processed successfully! user token is 13213268230
+
+
+this request spending time :  51.603000164 
+
+
+the request is processed successfully! user token is 13213268227
+
+
+this request spending time :  51.6660001278 
+
+
+the request is processed successfully! user token is 13213268332
+
+
+this request spending time :  51.4869999886 
+
+
+the request is processed successfully! user token is 13213268334
+
+
+this request spending time :  51.5499999523 
+
+
+the request is processed successfully! user token is 13213268331
+
+
+this request spending time :  51.6119999886 
+
+
+the request is processed successfully! user token is 13213268330
+
+
+this request spending time :  51.6740000248 
+
+
+the request is processed successfully! user token is 13213268329
+
+
+this request spending time :  51.7839999199 
+
+
+the request is processed successfully! user token is 13213268328
+
+
+this request spending time :  51.8570001125 
+
+
+the request is processed successfully! user token is 13213268228
+
+
+this request spending time :  55.231000185 
+
+
+the request is processed successfully! user token is 13213268226
+
+
+this request spending time :  55.2780001163 
+
+
+the request is processed successfully! user token is 13213268224
+
+
+this request spending time :  55.3710000515 
+
+
+the request is processed successfully! user token is 13213268225
+
+
+this request spending time :  55.4179999828 
+
+
+the request is processed successfully! user token is 13213268223
+
+
+this request spending time :  55.4960000515 
+
+
+the request is processed successfully! user token is 13213268221
+
+
+this request spending time :  55.5709998608 
+
+
+the request is processed successfully! user token is 13213268222
+
+
+this request spending time :  55.6180000305 
+
+
+the request is processed successfully! user token is 13213268219
+
+
+this request spending time :  55.6970000267 
+
+
+the request is processed successfully! user token is 13213268218
+
+
+this request spending time :  55.7779998779 
+
+
+the request is processed successfully! user token is 13213268217
+
+
+this request spending time :  55.8250000477 
+
+
+the request is processed successfully! user token is 13213268216
+
+
+this request spending time :  55.9029998779 
+
+
+the request is processed successfully! user token is 13213268215
+
+
+this request spending time :  55.9660000801 
+
+
+the request is processed successfully! user token is 13213268213
+
+
+this request spending time :  56.0590000153 
+
+
+the request is processed successfully! user token is 13213268212
+
+
+this request spending time :  56.1500000954 
+
+
+the request is processed successfully! user token is 13213268210
+
+
+this request spending time :  56.228000164 
+
+
+the request is processed successfully! user token is 13213268209
+
+
+this request spending time :  56.2780001163 
+
+
+the request is processed successfully! user token is 13213268211
+
+
+this request spending time :  56.371999979 
+
+
+the request is processed successfully! user token is 13213268207
+
+
+this request spending time :  56.4190001488 
+
+
+the request is processed successfully! user token is 13213268208
+
+
+this request spending time :  56.481000185 
+
+
+the request is processed successfully! user token is 13213268206
+
+
+this request spending time :  56.614000082 
+
+
+the request is processed successfully! user token is 13213268203
+
+
+this request spending time :  56.620000124 
+
+
+the request is processed successfully! user token is 13213268202
+
+
+this request spending time :  56.6830000877 
+
+
+the request is processed successfully! user token is 13213268201
+
+
+this request spending time :  56.7820000648 
+
+
+the request is processed successfully! user token is 13213268200
+
+
+this request spending time :  56.8140001297 
+
+
+the request is processed successfully! user token is 13213268199
+
+
+this request spending time :  56.9229998589 
+
+
+the request is processed successfully! user token is 13213268198
+
+
+this request spending time :  57.021999836 
+
+
+the request is processed successfully! user token is 13213268197
+
+
+this request spending time :  57.021999836 
+
+
+the request is processed successfully! user token is 13213268196
+
+
+this request spending time :  57.135999918 
+
+
+the request is processed successfully! user token is 13213268195
+
+
+this request spending time :  57.1989998817 
+
+
+the request is processed successfully! user token is 13213268194
+
+
+this request spending time :  57.2819998264 
+
+
+the request is processed successfully! user token is 13213268193
+
+
+this request spending time :  57.3129999638 
+
+
+the request is processed successfully! user token is 13213268189
+
+
+the request is processed successfully! user token is 13213268190
+
+
+this request spending time :  57.4679999352 
+
+
+this request spending time :  57.4530000687 
+
+
+the request is processed successfully! user token is 13213268185
+
+
+this request spending time :  57.5469999313 
+
+
+the request is processed successfully! user token is 13213268186
+
+
+this request spending time :  57.5929999352 
+
+
+the request is processed successfully! user token is 13213268183
+
+
+this request spending time :  57.6649999619 
+
+
+the request is processed successfully! user token is 13213268184
+
+
+this request spending time :  57.7739999294 
+
+
+the request is processed successfully! user token is 13213268181
+
+
+this request spending time :  57.8069999218 
+
+
+the request is processed successfully! user token is 13213268182
+
+
+this request spending time :  57.8619999886 
+
+
+the request is processed successfully! user token is 13213268178
+
+
+this request spending time :  57.9249999523 
+
+
+the request is processed successfully! user token is 13213268177
+
+
+this request spending time :  58.0209999084 
+
+
+the request is processed successfully! user token is 13213268176
+
+
+this request spending time :  58.0829999447 
+
+
+the request is processed successfully! user token is 13213268175
+
+
+this request spending time :  58.1769998074 
+
+
+the request is processed successfully! user token is 13213268174
+
+
+this request spending time :  58.2400000095 
+
+
+the request is processed successfully! user token is 13213268173
+
+
+this request spending time :  58.2969999313 
+
+
+the request is processed successfully! user token is 13213268172
+
+
+this request spending time :  58.3710000515 
+
+
+the request is processed successfully! user token is 13213268171
+
+
+this request spending time :  58.4340000153 
+
+
+the request is processed successfully! user token is 13213268170
+
+
+this request spending time :  58.4960000515 
+
+
+the request is processed successfully! user token is 13213268169
+
+
+this request spending time :  58.5590000153 
+
+
+the request is processed successfully! user token is 13213268167
+
+
+this request spending time :  58.6369998455 
+
+
+the request is processed successfully! user token is 13213268166
+
+
+this request spending time :  58.6959998608 
+
+
+the request is processed successfully! user token is 13213268165
+
+
+this request spending time :  58.7430000305 
+
+
+the request is processed successfully! user token is 13213268164
+
+
+this request spending time :  58.8059999943 
+
+
+the request is processed successfully! user token is 13213268163
+
+
+this request spending time :  58.871999979 
+
+
+the request is processed successfully! user token is 13213268160
+
+
+this request spending time :  58.9690001011 
+
+
+the request is processed successfully! user token is 13213268158
+
+
+this request spending time :  59.0160000324 
+
+
+the request is processed successfully! user token is 13213268159
+
+
+this request spending time :  59.0940001011 
+
+
+the request is processed successfully! user token is 13213268157
+
+
+this request spending time :  59.2020001411 
+
+
+the request is processed successfully! user token is 13213268155
+
+
+this request spending time :  59.2620000839 
+
+
+the request is processed successfully! user token is 13213268154
+
+
+this request spending time :  59.3400001526 
+
+
+the request is processed successfully! user token is 13213268152
+
+
+this request spending time :  59.3980000019 
+
+
+the request is processed successfully! user token is 13213268153
+
+
+this request spending time :  59.4450001717 
+
+
+the request is processed successfully! user token is 13213268151
+
+
+this request spending time :  59.5389997959 
+
+
+the request is processed successfully! user token is 13213268150
+
+
+this request spending time :  59.6009998322 
+
+
+the request is processed successfully! user token is 13213268149
+
+
+this request spending time :  59.6639997959 
+
+
+the request is processed successfully! user token is 13213268147
+
+
+this request spending time :  59.7259998322 
+
+
+the request is processed successfully! user token is 13213268146
+
+
+this request spending time :  59.7889997959 
+
+
+the request is processed successfully! user token is 13213268145
+
+
+this request spending time :  59.8519999981 
+
+
+the request is processed successfully! user token is 13213268144
+
+
+this request spending time :  59.9210000038 
+
+
+the request is processed successfully! user token is 13213268143
+
+
+this request spending time :  59.9830000401 
+
+
+the request is processed successfully! user token is 13213268142
+
+
+this request spending time :  60.0450000763 
+
+
+the request is processed successfully! user token is 13213268141
+
+
+this request spending time :  60.1259999275 
+
+
+the request is processed successfully! user token is 13213268140
+
+
+this request spending time :  60.2200000286 
+
+
+the request is processed successfully! user token is 13213268139
+
+
+this request spending time :  60.3090000153 
+
+
+the request is processed successfully! user token is 13213268138
+
+
+this request spending time :  60.3399999142 
+
+
+the request is processed successfully! user token is 13213268137
+
+
+this request spending time :  60.4230000973 
+
+
+the request is processed successfully! user token is 13213268136
+
+
+this request spending time :  60.4539999962 
+
+
+the request is processed successfully! user token is 13213268135
+
+
+this request spending time :  60.5329999924 
+
+
+the request is processed successfully! user token is 13213268133
+
+
+this request spending time :  60.6419999599 
+
+
+the request is processed successfully! user token is 13213268131
+
+
+this request spending time :  60.7050001621 
+
+
+the request is processed successfully! user token is 13213268129
+
+
+this request spending time :  60.736000061 
+
+
+the request is processed successfully! user token is 13213268130
+
+
+this request spending time :  60.8090000153 
+
+
+the request is processed successfully! user token is 13213268128
+
+
+this request spending time :  60.8559999466 
+
+
+the request is processed successfully! user token is 13213268127
+
+
+this request spending time :  60.9190001488 
+
+
+the request is processed successfully! user token is 13213268126
+
+
+this request spending time :  60.9839999676 
+
+
+the request is processed successfully! user token is 13213268125
+
+
+this request spending time :  61.0460000038 
+
+
+the request is processed successfully! user token is 13213268124
+
+
+this request spending time :  61.1130001545 
+
+
+the request is processed successfully! user token is 13213268122
+
+
+this request spending time :  61.2369999886 
+
+
+the request is processed successfully! user token is 13213268123
+
+
+this request spending time :  61.2690000534 
+
+
+the request is processed successfully! user token is 13213268120
+
+
+this request spending time :  61.3550000191 
+
+
+the request is processed successfully! user token is 13213268118
+
+
+this request spending time :  61.4179999828 
+
+
+the request is processed successfully! user token is 13213268119
+
+
+this request spending time :  61.4670000076 
+
+
+the request is processed successfully! user token is 13213268117
+
+
+this request spending time :  61.5609998703 
+
+
+the request is processed successfully! user token is 13213268116
+
+
+this request spending time :  61.6080000401 
+
+
+the request is processed successfully! user token is 13213268115
+
+
+this request spending time :  61.6710000038 
+
+
+the request is processed successfully! user token is 13213268114
+
+
+this request spending time :  61.7330000401 
+
+
+the request is processed successfully! user token is 13213268113
+
+
+this request spending time :  61.7950000763 
+
+
+the request is processed successfully! user token is 13213268112
+
+
+this request spending time :  61.8569998741 
+
+
+the request is processed successfully! user token is 13213268111
+
+
+this request spending time :  61.9200000763 
+
+
+the request is processed successfully! user token is 13213268110
+
+
+this request spending time :  61.9879999161 
+
+
+the request is processed successfully! user token is 13213268107
+
+
+this request spending time :  62.0810000896 
+
+
+the request is processed successfully! user token is 13213268105
+
+
+this request spending time :  62.128000021 
+
+
+the request is processed successfully! user token is 13213268106
+
+
+this request spending time :  62.2410001755 
+
+
+the request is processed successfully! user token is 13213268104
+
+
+this request spending time :  62.3029999733 
+
+
+the request is processed successfully! user token is 13213268103
+
+
+this request spending time :  62.3500001431 
+
+
+the request is processed successfully! user token is 13213268102
+
+
+this request spending time :  62.4140000343 
+
+
+the request is processed successfully! user token is 13213268101
+
+
+this request spending time :  62.4830000401 
+
+
+the request is processed successfully! user token is 13213268096
+
+
+this request spending time :  62.5610001087 
+
+
+the request is processed successfully! user token is 13213268095
+
+
+this request spending time :  62.6240000725 
+
+
+the request is processed successfully! user token is 13213268094
+
+
+this request spending time :  62.6710000038 
+
+
+the request is processed successfully! user token is 13213268093
+
+
+this request spending time :  62.7330000401 
+
+
+the request is processed successfully! user token is 13213268092
+
+
+this request spending time :  62.7969999313 
+
+
+the request is processed successfully! user token is 13213268091
+
+
+this request spending time :  62.8770000935 
+
+
+the request is processed successfully! user token is 13213268090
+
+
+this request spending time :  62.9400000572 
+
+
+the request is processed successfully! user token is 13213268089
+
+
+this request spending time :  63.0020000935 
+
+
+the request is processed successfully! user token is 13213268087
+
+
+this request spending time :  63.0690000057 
+
+
+the request is processed successfully! user token is 13213268086
+
+
+this request spending time :  63.1319999695 
+
+
+the request is processed successfully! user token is 13213268085
+
+
+this request spending time :  63.2269999981 
+
+
+the request is processed successfully! user token is 13213268083
+
+
+this request spending time :  63.3200001717 
+
+
+the request is processed successfully! user token is 13213268084
+
+
+this request spending time :  63.3770000935 
+
+
+the request is processed successfully! user token is 13213268082
+
+
+this request spending time :  63.4230000973 
+
+
+the request is processed successfully! user token is 13213268080
+
+
+this request spending time :  63.4850001335 
+
+
+the request is processed successfully! user token is 13213268081
+
+
+this request spending time :  63.5510001183 
+
+
+the request is processed successfully! user token is 13213268079
+
+
+this request spending time :  63.5980000496 
+
+
+the request is processed successfully! user token is 13213268074
+
+
+this request spending time :  63.6919999123 
+
+
+the request is processed successfully! user token is 13213268076
+
+
+this request spending time :  63.7220001221 
+
+
+the request is processed successfully! user token is 13213268075
+
+
+this request spending time :  63.8009998798 
+
+
+the request is processed successfully! user token is 13213268073
+
+
+this request spending time :  63.8629999161 
+
+
+the request is processed successfully! user token is 13213268072
+
+
+this request spending time :  63.9229998589 
+
+
+the request is processed successfully! user token is 13213268327
+
+
+this request spending time :  63.4040000439 
+
+
+the request is processed successfully! user token is 13213268326
+
+
+this request spending time :  63.4709999561 
+
+
+the request is processed successfully! user token is 13213268324
+
+
+this request spending time :  63.5180001259 
+
+
+the request is processed successfully! user token is 13213268325
+
+
+this request spending time :  63.6289999485 
+
+
+the request is processed successfully! user token is 13213268323
+
+
+this request spending time :  63.7070000172 
+
+
+the request is processed successfully! user token is 13213268322
+
+
+this request spending time :  63.7699999809 
+
+
+the request is processed successfully! user token is 13213268319
+
+
+this request spending time :  63.8410000801 
+
+
+the request is processed successfully! user token is 13213268318
+
+
+this request spending time :  63.8900001049 
+
+
+the request is processed successfully! user token is 13213268070
+
+
+this request spending time :  68.0679998398 
+
+
+the request is processed successfully! user token is 13213268071
+
+
+this request spending time :  68.1309998035 
+
+
+the request is processed successfully! user token is 13213268069
+
+
+this request spending time :  68.1929998398 
+
+
+the request is processed successfully! user token is 13213268068
+
+
+this request spending time :  68.254999876 
+
+
+the request is processed successfully! user token is 13213268067
+
+
+this request spending time :  68.3329999447 
+
+
+the request is processed successfully! user token is 13213268065
+
+
+this request spending time :  68.4210000038 
+
+
+the request is processed successfully! user token is 13213268061
+
+
+this request spending time :  68.4549999237 
+
+
+the request is processed successfully! user token is 13213268064
+
+
+this request spending time :  68.5329999924 
+
+
+the request is processed successfully! user token is 13213268063
+
+
+this request spending time :  68.5829999447 
+
+
+the request is processed successfully! user token is 13213268062
+
+
+this request spending time :  68.6449999809 
+
+
+the request is processed successfully! user token is 13213268060
+
+
+this request spending time :  68.7539999485 
+
+
+the request is processed successfully! user token is 13213268059
+
+
+this request spending time :  68.8169999123 
+
+
+the request is processed successfully! user token is 13213268056
+
+
+this request spending time :  68.9110000134 
+
+
+the request is processed successfully! user token is 13213268058
+
+
+this request spending time :  68.9549999237 
+
+
+the request is processed successfully! user token is 13213268057
+
+
+this request spending time :  69.0169999599 
+
+
+the request is processed successfully! user token is 13213268055
+
+
+this request spending time :  69.0840001106 
+
+
+the request is processed successfully! user token is 13213268054
+
+
+this request spending time :  69.1460001469 
+
+
+the request is processed successfully! user token is 13213268051
+
+
+this request spending time :  69.1930000782 
+
+
+the request is processed successfully! user token is 13213268047
+
+
+this request spending time :  69.2870001793 
+
+
+the request is processed successfully! user token is 13213268046
+
+
+this request spending time :  69.3489999771 
+
+
+the request is processed successfully! user token is 13213268316
+
+
+this request spending time :  68.7990000248 
+
+
+the request is processed successfully! user token is 13213268317
+
+
+this request spending time :  68.8580000401 
+
+
+the request is processed successfully! user token is 13213268315
+
+
+this request spending time :  68.9359998703 
+
+
+the request is processed successfully! user token is 13213268314
+
+
+this request spending time :  68.9830000401 
+
+
+the request is processed successfully! user token is 13213268313
+
+
+this request spending time :  69.0479998589 
+
+
+the request is processed successfully! user token is 13213268312
+
+
+this request spending time :  69.1729998589 
+
+
+the request is processed successfully! user token is 13213268310
+
+
+this request spending time :  69.2349998951 
+
+
+the request is processed successfully! user token is 13213268311
+
+
+this request spending time :  69.2820000648 
+
+
+the request is processed successfully! user token is 13213268309
+
+
+this request spending time :  69.359000206 
+
+
+the request is processed successfully! user token is 13213268306
+
+
+this request spending time :  69.4240000248 
+
+
+the request is processed successfully! user token is 13213268308
+
+
+this request spending time :  69.4539999962 
+
+
+the request is processed successfully! user token is 13213268307
+
+
+this request spending time :  69.5369999409 
+
+
+the request is processed successfully! user token is 13213268304
+
+
+this request spending time :  69.6150000095 
+
+
+the request is processed successfully! user token is 13213268305
+
+
+this request spending time :  69.6470000744 
+
+
+the request is processed successfully! user token is 13213268303
+
+
+this request spending time :  69.7130000591 
+
+
+the request is processed successfully! user token is 13213268302
+
+
+this request spending time :  69.7909998894 
+
+
+the request is processed successfully! user token is 13213268299
+
+
+this request spending time :  69.8540000916 
+
+
+the request is processed successfully! user token is 13213268297
+
+
+this request spending time :  69.9089999199 
+
+
+the request is processed successfully! user token is 13213268298
+
+
+this request spending time :  69.9709999561 
+
+
+the request is processed successfully! user token is 13213268296
+
+
+this request spending time :  70.0840001106 
+
+
+the request is processed successfully! user token is 13213268295
+
+
+this request spending time :  70.131000042 
+
+
+the request is processed successfully! user token is 13213268294
+
+
+this request spending time :  70.2239999771 
+
+
+the request is processed successfully! user token is 13213268293
+
+
+this request spending time :  70.3019998074 
+
+
+the request is processed successfully! user token is 13213268291
+
+
+this request spending time :  70.3329999447 
+
+
+the request is processed successfully! user token is 13213268292
+
+
+this request spending time :  70.4079999924 
+
+
+the request is processed successfully! user token is 13213268290
+
+
+this request spending time :  70.4539999962 
+
+
+the request is processed successfully! user token is 13213268289
+
+
+this request spending time :  70.5169999599 
+
+
+the request is processed successfully! user token is 13213268288
+
+
+this request spending time :  70.5839998722 
+
+
+the request is processed successfully! user token is 13213268287
+
+
+this request spending time :  70.6459999084 
+
+
+the request is processed successfully! user token is 13213268286
+
+
+this request spending time :  70.6929998398 
+
+
+the request is processed successfully! user token is 13213268285
+
+
+this request spending time :  70.754999876 
+
+
+the request is processed successfully! user token is 13213268284
+
+
+this request spending time :  70.8179998398 
+
+
+the request is processed successfully! user token is 13213268283
+
+
+this request spending time :  70.879999876 
+
+
+the request is processed successfully! user token is 13213268282
+
+
+this request spending time :  70.9549999237 
+
+
+the request is processed successfully! user token is 13213268281
+
+
+this request spending time :  71.0480000973 
+
+
+the request is processed successfully! user token is 13213268280
+
+
+this request spending time :  71.120000124 
+
+
+the request is processed successfully! user token is 13213268279
+
+
+this request spending time :  71.1820001602 
+
+
+the request is processed successfully! user token is 13213268278
+
+
+this request spending time :  71.2290000916 
+
+
+the request is processed successfully! user token is 13213268277
+
+
+this request spending time :  71.3229999542 
+
+
+the request is processed successfully! user token is 13213268276
+
+
+this request spending time :  71.3380000591 
+
+
+the request is processed successfully! user token is 13213268274
+
+
+this request spending time :  71.4170000553 
+
+
+the request is processed successfully! user token is 13213268275
+
+
+this request spending time :  71.486000061 
+
+
+the request is processed successfully! user token is 13213268271
+
+
+this request spending time :  71.5480000973 
+
+the task takes 73.2799999714

@@ -31,3 +31,4 @@ print sorted(tt)
 print t2.index(2) #2第一次出现的下标
 print t2.index(2,3)#在3下标之后（包括3），2第一次出现时的下标
 print 2 in t2
+
