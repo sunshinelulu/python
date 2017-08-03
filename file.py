@@ -1,6 +1,8 @@
 #-*- coding: utf8 -*-
+
 ##为了能够在python2.6的版本中使用python3的特性的一种方法
 #from __future__ import print_function  
+
 
 
 out = open(r'test.txt', 'w') #'w'代表输出并生成一个文件
@@ -45,6 +47,7 @@ fb.close()
 import pickle
 #shelve 也是一个按键存储的比较好的使用工具
 import shelve
+<<<<<<< HEAD
 
 #IO重定向，python中提供了比较方便的IO重定向的方法。
 log = open('log.txt', 'a')
@@ -53,3 +56,4 @@ log.close()
 
 
 print ('python 3 print_function')
+
