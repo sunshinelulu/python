@@ -92,6 +92,15 @@ except Exception as e:
 
 #intro = versioninfo['versions'], 这样的json解析出错的时候的是
 #会发出Exception这样的异常的因此就被捕获了，所以还要进一步的。
+
+#python中逻辑非 and or not 似乎是支持者三种操作的。
+result = True
+print result
+print not result
+body = u"@BugEase bug 反馈信息 @BugEase bug "
+body = string.replace(body, u"@BugEase", u"", 1)
+body = string.replace(body, u"bug", u"", 1)
+print body.strip()
     
         
 

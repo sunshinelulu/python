@@ -1,0 +1,16 @@
+delimiter $$
+create procedure query(IN order_no_input varchar(45), OUT remark VARCHAR(50))
+begin
+  declare order_id varchar(50);
+  declare remit_info_id_2 varchar(50);
+  declare receive_account_id_2 varchar(50);
+
+	SELECT id into @order_id from nc_order_base_order_info WHERE order_no = order_no_input;
+  select remit_info_id into remit_info_id_2 from nc_withdraw_management where id = @order_id;
+  SELECT receive_account_id into @receive_account_id_2 from nc_remit_info where id = @receive_account_id_2;
+
+  select remark into @remark from nc_remit_account where id = receive_account_id_2;
+ end $$
+
+CALL query("CS201708031926176843975619212", @temp);
+SELECT @temp
